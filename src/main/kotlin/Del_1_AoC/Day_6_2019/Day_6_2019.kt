@@ -1,14 +1,11 @@
-package Del_1.Day_6_2019
+package Del_1_AoC.Day_6_2019
 
 import java.io.File
 
 
 class Day_6_2019_fore {
-    fun calcOrbit() {
-        var eachRow: List<String> = File("src/main/kotlin/Del_1/Day_6_2019/input.txt")
-            .readText()
-            .trim()
-            .split("\n")
+    fun calcOrbit(filePath: String): Int {
+        val eachRow = File(filePath).readLines().map {it.trim()}
 
         val orbits = HashMap<String, String>()
 
@@ -27,22 +24,18 @@ class Day_6_2019_fore {
         }
 
         println(totalOrbits)
+        return totalOrbits
     }
 }
+class Day_6_2019_efter {
+    private lateinit var orbitPairs: Map<String, String>
+        fun calcOrbit(filePath: String): Int {
+            val input = File(filePath).readLines().map { it.trim() }
 
-    class Day_6_2019_efter {
+            orbitPairs = input.map { it.split(")") }.map { it.last() to it.first() }.toMap()
 
-        private var input: List<String> = File("src/main/kotlin/Del_1/Day_6_2019/input.txt")
-            .readText()
-            .trim()
-            .split("\n")
-
-        private val orbitPairs: Map<String, String> =
-            input.map { it.split(")") }.map { it.last() to it.first() }.toMap()
-
-        fun solvePart1(): Int {
-            val returnValue = orbitPairs.keys.sumOf { pathTo(it).size - 1 }
-            return returnValue
+            println(orbitPairs.keys.sumOf { pathTo(it).size - 1 })
+            return (orbitPairs.keys.sumOf { pathTo(it).size - 1 })
         }
 
         private fun pathTo(orbit: String, path: MutableList<String> = mutableListOf(orbit)): List<String> =
@@ -56,8 +49,8 @@ fun main(){
     val fore = Day_6_2019_fore()
     val efter = Day_6_2019_efter()
 
-    fore.calcOrbit()
-    println(efter.solvePart1())
+    fore.calcOrbit("src/main/kotlin/Del_1/Day_6_2019/input.txt")
+    efter.calcOrbit("src/main/kotlin/Del_1/Day_6_2019/input.txt")
 
 }
 

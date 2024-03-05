@@ -4,24 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec73f83b-9fc2-45c2-9dfb-88ea935c0e5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functional_programming-kotlin-inlamning-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2019/Day_6_2019.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2019/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2020/Day_6_2020.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2020/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2021/Day_6_2021.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2021/input_day_6_2021.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Del_1/Day_6_2021_TDD.kt" afterDir="false" />
+    <list default="true" id="ec73f83b-9fc2-45c2-9dfb-88ea935c0e5a" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1_AoC/Day_6_2021/Day_6_2021.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1_AoC/Day_6_2023/Day_6_2023.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1_AoC/Day_6_2023/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1_AoC/Day_8_2023/Day_8_2023.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1_AoC/Day_8_2023/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Del_2/Tomteland.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Del_1_AoC/Day_6_2019_TDD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Del_1_AoC/Day_6_2019_TDD_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Del_1_AoC/Day_6_2020_TDD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Del_1_AoC/Day_6_2020_TDD_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Del_1_AoC/Day_6_2021_TDD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Del_1_AoC/Day_6_2021_TDD_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Del_1_AoC/Day_6_2023_TDD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Del_1_AoC/Day_6_2023_TDD_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Del_1_AoC/Day_8_2023_TDD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Del_1_AoC/Day_8_2023_TDD_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Del_1_AoC/Day_8_2023_TDD_Input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Del_2/Tomteland_TDD.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2019/Day_6_2019.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1_AoC/Day_6_2019/Day_6_2019.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2019/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1_AoC/Day_6_2019/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2020/Day_6_2020.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1_AoC/Day_6_2020/Day_6_2020.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2020/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1_AoC/Day_6_2020/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2021/Day_6_2021.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2021/input_day_6_2021.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Del_1_AoC/Day_6_2021/input_day_6_2021.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2023/Day_6_2023.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2023/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/Del_1/Day_6_2021_TDD.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,70 +54,88 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2cj6rczwnOz9SFLImb6Z9fi7iar" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/borggren/Library/CloudStorage/OneDrive-Privat/Nackademin/OOP/Sprint 4/Sprint_5/Quizkampen/functional_programming-kotlin-inlamning-1/src/test/kotlin/Del_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/kotlin/Del_1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin/Del_1/Day_6_2021" />
     </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="Del_1.Day_8_2023" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Day_6_2019Kt">
-    <configuration name="Day_6_2021_TDD.testCalculateFish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TomtelandTest">
+    <configuration name="TomtelandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="functional_programming-kotlin-inlamning-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Del_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Del_1" />
-      <option name="MAIN_CLASS_NAME" value="Del_1.Day_6_2021_TDD" />
-      <option name="METHOD_NAME" value="testCalculateFish" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TomtelandTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TomtelandTest.underlingsButterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="functional_programming-kotlin-inlamning-1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TomtelandTest" />
+      <option name="METHOD_NAME" value="underlingsButterTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_6_2019Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Del_1.Day_6_2019.Day_6_2019Kt" />
+    <configuration name="TomtelandTest.underlingsGladerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="functional_programming-kotlin-inlamning-1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TomtelandTest" />
+      <option name="METHOD_NAME" value="underlingsGladerTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_6_2020Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Del_1.Day_6_2020.Day_6_2020Kt" />
+    <configuration name="TomtelandTest.underlingsTomtenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="functional_programming-kotlin-inlamning-1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TomtelandTest" />
+      <option name="METHOD_NAME" value="underlingsTomtenTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_6_2021Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Del_1.Day_6_2021.Day_6_2021Kt" />
+    <configuration name="TomtelandKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Del_2.TomtelandKt" />
       <module name="functional_programming-kotlin-inlamning-1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,10 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Day_6_2019Kt" />
-        <item itemvalue="Kotlin.Day_6_2020Kt" />
-        <item itemvalue="JUnit.Day_6_2021_TDD.testCalculateFish" />
-        <item itemvalue="Kotlin.Day_6_2021Kt" />
+        <item itemvalue="JUnit.TomtelandTest" />
+        <item itemvalue="Kotlin.TomtelandKt" />
+        <item itemvalue="JUnit.TomtelandTest.underlingsTomtenTest" />
+        <item itemvalue="JUnit.TomtelandTest.underlingsGladerTest" />
+        <item itemvalue="JUnit.TomtelandTest.underlingsButterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -131,10 +161,23 @@
       <updated>1708612843198</updated>
       <workItem from="1708612844340" duration="42055000" />
       <workItem from="1709030385699" duration="2990000" />
+      <workItem from="1709037755237" duration="45993000" />
     </task>
+    <task id="LOCAL−00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1709037891162</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1709037891162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
